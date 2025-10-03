@@ -3,7 +3,7 @@ theme: neat
 layout: cover
 colorSchema: light
 coverLogo: figures/utokyo.png
-coverTitle: "微分方程式系における強化学習(修士課程の研究)+博士課程での研究計画"
+coverTitle: "過去の活動概要+研究内容"
 coverAuthor: Haruki Settai
 lineNumbers: true
 ---
@@ -21,9 +21,31 @@ maxDepth: 2
 </div>
 
 ---
-layout: section
-subject: Overview
+layout: default
+headerEnable: true
+headerTitle: 過去の活動
+headerLogo: figures/utokyo.png
 ---
+
+# 過去の活動
+
+- 2019年4月 東京大学 理科一類入学
+- 2021年    東京大学 工学部 航空宇宙工学科 進学
+- 2023年3月 東京大学 工学部 航空宇宙工学科 卒業
+- 2023年4月 東京大学 大学院 工学系研究科 航空宇宙工学科専攻 進学
+- 2024年9月 休学
+- 2025年4月 復学
+- 2025年9月 東京大学 大学院 工学系研究科 航空宇宙工学科専攻 卒業
+- 2025年10月 東京大学 大学院 情報理工学系研究科 数理情報学専攻 進学
+
+
+---
+layout: default
+headerEnable: true
+headerTitle: 過去の活動
+headerLogo: figures/utokyo.png
+---
+
 
 # Overview
 
